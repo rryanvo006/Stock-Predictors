@@ -7,5 +7,6 @@ def stockModel():
     ticker = yf.Ticker(tickerInput)
     chart = ticker.history(period ="max")
     print(chart)
+    print("ryna and aiv)")
 
 stockModel()
