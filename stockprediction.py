@@ -10,3 +10,6 @@ def stockModel():
     print("ryna and aiv)")
 
 stockModel()
+
+def diddytracker():
+    return True
